@@ -163,4 +163,4 @@ cython_debug/
 
 test
 .idea/
-*/.DS_Store
+.DS_Store
